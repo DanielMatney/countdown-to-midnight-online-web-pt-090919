@@ -2,7 +2,7 @@
 
 def countdown(seconds)
   while seconds > 1
-    puts "#{seconds} SECONDS!"
+    puts "#{seconds} SECOND(S) !"
     seconds -= 1
   end
 end
